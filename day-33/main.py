@@ -4,6 +4,7 @@ from datetime import datetime
 MY_LAT = 9.076479
 MY_LONG = 7.398574
 
+
 # response = requests.get(url="http://api.open-notify.org/iss-now.json")
 # response.raise_for_status()
 #
