@@ -87,4 +87,3 @@ Brief: We at Insider Monkey have gone over 821 13F filings that hedge funds and 
  by the SEC The 13F filings show the funds' and investors' portfolio positions as of March 31st, near the height of the 
  coronavirus market crash.
 """
-
