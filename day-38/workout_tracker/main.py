@@ -3,8 +3,8 @@ import requests
 # from requests.auth import HTTPBasicAuth
 from datetime import datetime
 
-APP_ID = os.environ.get["NUTRITIONIX_APP_ID"]
-API_KEY = os.environ.get["NUTRITIONIX_API_KEY"]
+APP_ID = os.environ["NUTRITIONIX_APP_ID"]
+API_KEY = os.environ["NUTRITIONIX_API_KEY"]
 NUTRITIONIX_ENDPOINT = "https://trackapi.nutritionix.com/v2/natural/exercise"
 SHEETY_ENDPOINT = "https://api.sheety.co/9a30d3187742b0873fb915d9cab40aed/hamza'sWorkouts/workouts"
 
