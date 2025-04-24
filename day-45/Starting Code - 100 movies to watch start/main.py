@@ -15,4 +15,3 @@ movie_titles.reverse()
 with open("Top 100 movies to watch.txt", mode="w", encoding="utf-8") as file:
     for movie in movie_titles:
         file.write(f"{movie}\n")
-
