@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 
-my_email = "kojozpythontesting@gmail.com"
-my_password = "H@k2oTwo2Pyth0n"
+my_email = "python@mail.com"
+my_password = "python"
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
