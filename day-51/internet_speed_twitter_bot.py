@@ -5,8 +5,8 @@ import time
 
 PROMISED_DOWN = 150
 PROMISED_UP = 10
-TWITTER_EMAIL = "kojozpythontesting@gmail.com"
-TWITTER_PASSWORD = "H@k2oTwo2Pyth0n"
+TWITTER_EMAIL = "email"
+TWITTER_PASSWORD = "password"
 
 
 class InternetSpeedTwitterBot:
