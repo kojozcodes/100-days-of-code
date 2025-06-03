@@ -3,9 +3,9 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 
-SIMILAR_ACCOUNT = "python.coder_"
-USERNAME = "kojozcodes"
-PASSWORD = "H@k2oTwo2"
+SIMILAR_ACCOUNT = "account"
+USERNAME = "username"
+PASSWORD = "password"
 
 
 class InstaFollower:
